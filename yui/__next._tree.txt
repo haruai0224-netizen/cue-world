@@ -1,5 +1,5 @@
 :HL["/cue-world/_next/static/chunks/1tpobl48szjou.css","style"]
 :HL["/cue-world/_next/static/chunks/1a5r176-_s-il.css","style"]
-:HL["/cue-world/_next/static/chunks/11b_sqv1rm5tt.css","style"]
+:HL["/cue-world/_next/static/chunks/1n9wtxnawkv3w.css","style"]
 :HC["/",""]
-0:{"tree":{"name":"","param":null,"prefetchHints":4116,"slots":{"children":{"name":"yui","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"0L6HcNkakHnnjDnSQsNwq"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4116,"slots":{"children":{"name":"yui","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"yO3p5gvdgmWnZ1Ud_CJqr"}
