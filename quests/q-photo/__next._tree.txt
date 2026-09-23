@@ -1,5 +1,5 @@
 :HL["/cue-world/_next/static/chunks/1tpobl48szjou.css","style"]
 :HL["/cue-world/_next/static/chunks/1a5r176-_s-il.css","style"]
-:HL["/cue-world/_next/static/chunks/1n9wtxnawkv3w.css","style"]
+:HL["/cue-world/_next/static/chunks/30ktn7ghxwget.css","style"]
 :HC["/",""]
-0:{"tree":{"name":"","param":null,"prefetchHints":4116,"slots":{"children":{"name":"quests","param":null,"prefetchHints":4160,"slots":{"children":{"name":"id","param":{"type":"d","key":"q-photo","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"CJrm76jiViVxH0VpSJguU"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4116,"slots":{"children":{"name":"quests","param":null,"prefetchHints":4160,"slots":{"children":{"name":"id","param":{"type":"d","key":"q-photo","siblings":["new"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"2nkBeL_b-1UIlUmWseNGP"}
